@@ -1,5 +1,8 @@
 # PC Build #1
 
+This PC was one of my favorite projects ever and is the one I'm using right now!
+
+I wanted to try to strike a balance between value and performance and this PC satisfied both.
 
 ## Specs
 
