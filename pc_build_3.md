@@ -1,5 +1,14 @@
 # PC_Build_3
 
+This build was a rebuild of a Dell XPS PC from 2018 that had served as our primary work PC for over 5 years.
+
+It had reached a point where the CPU and GPU fans were ALWAYS revving so I knew heat was becoming an issue. My solutions were to swap the case and reapply thermal paste to both the CPU and GPU.
+
+In order to swap the case, the motherboard and powersupply had to be replaced, but it was well worth it. 
+
+This thing runs super quiet without any revving now (and it's PINK(!) for my wife and daughter!) 
+
+
 ## Specs
 
 
@@ -24,3 +33,5 @@
 
 ### Case
 [VETROO AL800 Tower](https://www.amazon.com/VETROO-Computer-Opening-Tempered-Support/dp/B0CKX8WXRG/)
+
+Pics to come!
