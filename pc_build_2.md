@@ -1,5 +1,10 @@
 # PC_Build_2
 
+
+This was a super fun value-ish build that I put together for my son. I will have to get some pictures of the completed build, but the case was a fantastic choice. It is smaller but extremely roomy on the inside making the work very easy. The graphics card I sourced from eBay and has been a workhorse!
+
+
+
 ## Specs
 
 
